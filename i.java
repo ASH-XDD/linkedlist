@@ -27,7 +27,7 @@ tail.next=null;
     obj.insertatstart(3);
     obj.insertatstart(2);
     obj.insertatstart(2);
-    obj.insertatstart(1);
+    obj.insertatstart(0);
     obj.print();
     obj.getduplicates();
     obj.print();
